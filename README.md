@@ -6,7 +6,7 @@ Saat ini, saya sedang fokus mengembangkan proyek **Marketplace** (API & Web) unt
 
 ---
 
-####(Tech Stack)
+#### (Tech Stack)
 
 Ini adalah tools dan bahasa yang biasa saya pakai sehari-hari:
 
